@@ -1,6 +1,9 @@
-# قالب RTL تم [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) از سایت ساز Jekyll
+#RTL [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) עברית  Jekyll
 
-این‌قالب نسخهٔ کاملاً فارسی‌سازی‌شدهٔ از [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) هست و فایل‌های اضافه‌اش پاک شده.
+תבנית RTL של ערכת נושא מינימלית של טעויות מאת בונה האתרים של Jekyll
+תבנית זו היא גרסה פרסית/עברית מלאה של טעויות מינימליות והקבצים הנוספים שלה נמחקו.
+
+ا[minimal-mistakes](https://github.com/mmistakes/minimal-mistakes.
 
 در قالب سایت از فونت [وزیر](https://rastikerdar.github.io/vazirmatn/) و متون مربوط به پست ها از فونت [ساحل](https://rastikerdar.github.io/sahel-font/) استفاده شده.
 
